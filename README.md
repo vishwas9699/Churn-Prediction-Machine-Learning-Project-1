@@ -1,4 +1,4 @@
-# Churn Prediction using Macchine Learning
+# Churn Prediction using Macchine Learning.
 
 ## Problem Statement.
 * The dataset contains the information like personal information of the customer, transaction information, and bank information belonging to a bank.
